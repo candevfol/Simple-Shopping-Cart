@@ -1,4 +1,4 @@
-# Simple Shopping Cart (MERN Stack)
+# Simple Shopping Cart (Full Stack-Express + React)
 
 A modern e-commerce shopping cart application built with React frontend and Express.js backend, featuring real-time cart management and seamless checkout functionality.
 
